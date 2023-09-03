@@ -6,4 +6,9 @@
 #board{
   height: 400px;
   width: 400px;
+  
+}
+#view{
+  width: 100%;
+  height: 80vh;
 }
